@@ -19,7 +19,7 @@ const HOST = '0.0.0.0';
 const PORT = 3000;
 
 // new line
-/* delete this SHIT!!! */
+/* no SHIT here */
 
 //=========================================================
 //  LOADERS
